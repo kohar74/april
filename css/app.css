@@ -448,7 +448,7 @@ a.bar-icon:hover {
 .title-content {
     margin: 2rem 0 4rem 0;
     font-weight: 600;
-    line-height: 16px;
+    line-height: 30px;
     z-index: 1;
 }
 
@@ -702,7 +702,7 @@ span.w3-button:hover {
     top: 20px;
     text-align: center;
     border-radius: 50%;
-    padding-top: 10px;
+    padding-top: 7px;
     background-color: #fff;
 }
 
@@ -943,7 +943,6 @@ span.w3-button:hover {
 }
 
 .block-profile {
-    width: 220px;
     z-index: 2;
 }
 
@@ -1404,10 +1403,10 @@ li span {
         letter-spacing: 0.15em;
         padding: 15px 30px;
         border-radius: 300px;
-        color: #ffffff;
-        border: 2px solid #ffffff;
+        color: #000;
+        border: 2px solid #e91e63;
         background: transparent;
-        margin-bottom: 30px;
+        margin-bottom: 130px;
         cursor: pointer;
     }
 
@@ -1653,7 +1652,7 @@ li span {
     #pay.float {
         display: none;
         top: 25vh;
-        right: 30px;
+        right: 24px;
     }
 
     h1 {
